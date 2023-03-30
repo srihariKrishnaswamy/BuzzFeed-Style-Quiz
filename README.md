@@ -8,7 +8,8 @@ Each node in the tree will be represented by a single line in the file containin
 "Result" nodes will be written as the result option prefixed with the text END:.
 
 Usage
-Here is a sample quiz file (just a normal txt file) representing a quiz that asks users to choose between colors to find their preferred breakfast cereal.
+Here is a sample quiz file (just a normal txt file) representing a quiz that asks users to choose between colors to find their preferred breakfast cereal. Spaces are new lines.
+
 red/blue
 yellow/green
 END:Froot Loops
@@ -18,6 +19,7 @@ END:Frosted Flakes
 black/white
 END:Rice Krispies
 END:Fruity Pebbles
+
 Notice that the file represents a pre-order traversal of the resulting tree. So, for example, "red/blue" is the root of the tree and "yellow/green" is the left child of the root.
 Sample Executions
 Here are a few sample executions of taking the sample quiz above:
