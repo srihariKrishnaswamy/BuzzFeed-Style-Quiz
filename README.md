@@ -38,3 +38,4 @@ In order to run this program:
 2. navigate to the src file in terminal 
 3. in terminal, type 'javac App.java'
 4. then type 'java App'
+If this doesn't work, you may have to install the Java Development Kit (JDK) do so here: https://www.oracle.com/java/technologies/downloads/
