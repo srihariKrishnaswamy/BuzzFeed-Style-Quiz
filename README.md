@@ -32,7 +32,9 @@ Do you prefer purple or orange? purple
 Do you prefer black or white? black
 Your preferred breakfast cereal is Rice Krispies.
 
-Getting started
-1. clone this repository onto your local machine
-2. install a Java Development Kit if you don't have one already
-3. run the code in App.java!
+Running this program:
+In order to run this program:
+1. clone the repository by, in terminal, typing 'git clone ' and then the repo link
+2. navigate to the src file in terminal 
+3. in terminal, type 'javac App.java'
+4. then type 'java App'
